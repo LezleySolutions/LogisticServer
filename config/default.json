@@ -1,0 +1,4 @@
+{
+    "jwtprivatekey":"my-dice-key",
+    "client_url":"http://loacalhost:3000"
+}
